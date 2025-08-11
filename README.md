@@ -2,7 +2,7 @@
 Predictive Modeling of Surgically Recalcitrant Chronic Rhinosinusitis Using Integrated Feature Sets
 
 # Installation
-<pre> pip -r install requirements.txt  </pre>
+<pre>pip install -r requirements.txt</pre>
 # Usage
 You can run `python number_prior_surgeries_final.py` for the multi-class classification task and run `python prior_surgeries_final.py` for the binary classification task.
 There is also a combined version `run_all_auc_tasks.py` which you can use to automatically generate results for all four tasks.
